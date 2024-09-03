@@ -1,0 +1,4583 @@
+{
+  "version": 1,
+  "partitions": [
+    {
+      "topic": "__consumer_offsets",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 1,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 2,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 3,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 4,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 5,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 6,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 7,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 8,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 9,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 10,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 11,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 12,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 13,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 14,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 15,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 16,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 17,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 18,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 19,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 20,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 21,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 22,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 23,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 24,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 25,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 26,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 27,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 28,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 29,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 30,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 31,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 32,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 33,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 34,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 35,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 36,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 37,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 38,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 39,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 40,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 41,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 42,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 43,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 44,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 45,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 46,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 47,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 48,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "__consumer_offsets",
+      "partition": 49,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "article_bag_change_publish",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "dia-nginx-platform-cart-v1",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-administrator-audit-trail-logs",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-app-product-price-webhook-sync",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-app-product-webhook-sync",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-bulk-discount",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-discount",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-discount-batching",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-discount-file-download",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-discount-file-validation",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-discount-sync",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-price-sync",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-price-sync-low",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-application-solr-sync",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-audit-trail-logs",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-affiliate_webhook_tasks",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-aggregator_bag_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-bulk-action-shipment-update",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-bulk-action-task",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-bulk-entity-update",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-bulk-shipment-update",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-bulk_reports_queue",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-communications_v2_tasks",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-email_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-fynd_co",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-marketplace_co",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-openapi_co",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-order-info",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-order_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-reco_generation_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-refund-initiate",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-session_hooks",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-shipment_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-sms_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-store_geo_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-store_operation_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-sync_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-task-error",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-tasks",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-uniformed-create-order-queue",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-avis-user_queue_tasks",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-bag-status-retrial",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-billing-entities",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-blitzkrieg-available-pages",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-blitzkrieg-theme",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-brand-category-detail-sync",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-bulk-assets-extraction",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-bulk-raw-catalogue",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-bulk-silverbolt-export",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-catalog-common-sync",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-convex-application-seo",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-convex-data-loaders",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-convex-faq",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-convex-faq-category",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-convex-support",
+      "partition": 0,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-convex-tags",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-credit-note-generate-report",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-bank-conf",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-commercial-maker",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-company-conf",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-creditline-engine",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-generate-report",
+      "partition": 0,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-internal",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-invoice-engine",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-invoice-engine-acknowledgement",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-invoice-engine-old",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-invoice-payment-acknowledgement",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-manual-bag-status",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-notification-engine",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-payment-engine",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-reverse-mapping",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-seller-passbook-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-daytrader-stats-engine",
+      "partition": 0,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-deadlock-auth-settings",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-deadlock-user-attribute",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-deadlock-user-create-for-attribute",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-deadlock-user-update",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-deadlock-usergroup",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-enigma-seller-invoice-status",
+      "partition": 0,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-ext-abandoned-cart-async-task",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-ext-contractpricing-async-task",
+      "partition": 0,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-ext-download-all-ladder-async-task",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-ext-ladderpricing-async-task",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-ext-newsletter-async-task",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-ext-whatsapp-notification-async-task",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-extension-function-live-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-extension-function-save-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-extension-update",
+      "partition": 0,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-app-article-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-app-filter-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-app-price_factory-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-app-product-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-app-product-price-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-app-sort-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-app-zone-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-article-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-avis-courier-partner-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-blitzkrieg-pages-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-blitzkrieg-theme-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-blitzkrieg-theme-event-company",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-brand-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-category-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-collection-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-company-courier-partner-account-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-company-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-company-logistics-configuration-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-convex-faq-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-convex-legal-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-convex-seo-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-convex-tag-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-deadlock-user-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-department-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-discount-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-discount-item-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-domain-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-extension-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-extension-subscription-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-fp-subscription-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-gringotts-payment-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-gringotts-refund-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-highbrow-support-ticket-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-location-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-marketplace-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-megatron-address-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-megatron-cart-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-megatron-cart-price-adjustment-usage-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-megatron-coupon-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-megatron-promotion-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-megatron-promotion-usage-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-platform-configuration-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-product-attributes-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-product-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-product-size-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-product-size-event-reprocess",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-product-templates-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-return-config-categories-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-return-config-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-slingshot-application-configuration-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-slingshot-integration-configuration-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-fdk-webhook-zone-event",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-firebolt-entity",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-firebolt-internal-region",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-firebolt-internal-zone",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-firebolt-region-tat",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-announcement-create",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-announcement-update",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-blog-update",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-custompage-update",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-landingpage-update",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-legal-insert",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-legal-update",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-freeway-navigation-update",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-greenback-payout-initiate",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-greenback-payout-status",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-grimlock-invite-update",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-grimlock-user-update",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-gringotts-beneficiary-ack",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-gringotts-extension_repayment_status",
+      "partition": 0,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-gringotts-payment_status",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-gringotts-payouts",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-gringotts-shipment_payment_status",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-gringotts-tasks",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-gringotts-tasks-aggregator-queue",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-hedwig-dp-update",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-inventory-interfaces-article_update",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-jio-cbs",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-lightspeed-giveaway-audience",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-manifest-internal",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-manifest-order",
+      "partition": 0,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-manifest-shipment-init",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-megatron-create-order-req-data",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-mixmaster-backgroud-task-trigger",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pdf-generator-finance",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pdf-generator-internal",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pdf-generator-order",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pdf-generator-update",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-app-bag-custom-fields",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-app-coupon-custom-fields",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-app-custom-field-definitions",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-app-custom-object-definitions",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-app-custom-objects",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-app-product-custom-fields",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-app-promotion-custom-fields",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-article_update",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-category",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-cbs",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-cbs-approval",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-custom-field-definitions",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-custom-object-definitions",
+      "partition": 0,
+      "replicas": [
+        2,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-custom-objects",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-hsn-v2",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-identifier-update",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-inventory-custom-fields",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-item",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-packaging_config",
+      "partition": 0,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-price-factory",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-price-factory-product",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-product-approval",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-product-custom-fields",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-platform-store-custom-fields",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-campaign-schedule-queue",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-communication",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-communication-high",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-email-high",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-email-low",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-errors",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-internal-event-communication",
+      "partition": 0,
+      "replicas": [
+        2,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-internal-event-communication-v2",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-logs",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-notification",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-sms-high",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-pointblank-sms-low",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-prism-platform-opt-in-updates",
+      "partition": 0,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-product-template-export",
+      "partition": 0,
+      "replicas": [
+        1,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sentinel-click-activity",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-shipment-bag-status",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-shipment-data-reemit",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-file-upload",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-import",
+      "partition": 0,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-inventories",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-inventory-file",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-products",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-products-file",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-products-file",
+      "partition": 1,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-products-file",
+      "partition": 2,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-products-file",
+      "partition": 3,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-bulk-products-file",
+      "partition": 4,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-product-inventory-export",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-silverbolt-search-file-upload",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-skywarp-autoinstall-extensions",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-skywarp-invite-update",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-skywarp-platform-invite",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-skywarp-url-json-config",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-skywarp-user-logout",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-skywarp-user-update",
+      "partition": 0,
+      "replicas": [
+        3,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-app-currency",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-app-deployment-meta",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-app-feature",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-app-token",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-application",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-application-information",
+      "partition": 0,
+      "replicas": [
+        3,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-application-v2",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-slingshot-backgroud-task-trigger",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sterling-payment-status",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-stormbreaker-bulk-job",
+      "partition": 0,
+      "replicas": [
+        4,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-stormbreaker-internal-pincode-mop",
+      "partition": 0,
+      "replicas": [
+        2,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-stormbreaker-internal-platform-application-rules-process",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-stormbreaker-internal-price-sync",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-stormbreaker-internal-zonev2",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-app-article-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-app-bag-custom-fields",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-app-product-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-article-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-avis-courier-partner-event",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-avis-order-info",
+      "partition": 0,
+      "replicas": [
+        3,
+        2,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-custom-field-definitions",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-custom-fields",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-custom-object-definitions",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-custom-objects",
+      "partition": 0,
+      "replicas": [
+        1,
+        5,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-extension-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-failed-delivery",
+      "partition": 0,
+      "replicas": [
+        4,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-fp-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-inventory-custom-fields",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-megatron-cart-event",
+      "partition": 0,
+      "replicas": [
+        2,
+        1,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-megatron-promotion-event",
+      "partition": 0,
+      "replicas": [
+        5,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-product-custom-fields",
+      "partition": 0,
+      "replicas": [
+        4,
+        3,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-product-size-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-shipment-bag-status",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-sureshot-internal-slingshot-integration-configuration-event",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-ultramagnus-basic-settings-task",
+      "partition": 0,
+      "replicas": [
+        5,
+        1,
+        2
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-unicron-async-task",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-unicron-common-payment-system",
+      "partition": 0,
+      "replicas": [
+        5,
+        4,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-unicron-resource-usage",
+      "partition": 0,
+      "replicas": [
+        1,
+        3,
+        4
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-unicron-webhook-payments",
+      "partition": 0,
+      "replicas": [
+        3,
+        4,
+        5
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-unicron-webhook-payments-stripe",
+      "partition": 0,
+      "replicas": [
+        1,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "fynd-json-webhook-inventory-sync",
+      "partition": 0,
+      "replicas": [
+        4,
+        5,
+        1
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    },
+    {
+      "topic": "highbrow-integration-ticket-update",
+      "partition": 0,
+      "replicas": [
+        5,
+        2,
+        3
+      ],
+      "log_dirs": [
+        "any",
+        "any",
+        "any"
+      ]
+    }
+  ]
+}
